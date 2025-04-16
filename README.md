@@ -40,7 +40,7 @@ A Python/PyQt5 Tower Defense game featuring single‑player, local co‑op, netw
 ## Installation
 
 ```bash
-git clone https://github.com/<your‑username>/tower-defense.git
+git clone https://github.com/<zprzybylowicz>/tower-defense.git
 cd tower-defense
 
 python -m venv venv
